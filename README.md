@@ -21,7 +21,8 @@ _____
 <li>CSS</li>
 </ul>
 
-<h3>Goals:</h3>
+<h3>Future Development:</h3>
 <ol></ol>
 <li>Make mobile responsive</li>
+<li>Add Sweet Alert</li>
 </ol>
